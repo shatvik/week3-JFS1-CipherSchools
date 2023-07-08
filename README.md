@@ -1,0 +1,3 @@
+# This is for the Submission of week 3 activity at CipherSchools
+
+Java Full Stack Week3 Activity Completed...
